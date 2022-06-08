@@ -44,3 +44,5 @@
 * [siddontang's Blog](https://www.jianshu.com/u/1yJ3ge)
 * [Keep Coding](https://liujiacai.net/)
 * [Singularity Data's Blog](https://singularity-data.com/blog/)
+* [gracicot.github.io](https://gracicot.github.io/)
+* [\*\*internal / pointers](https://www.internalpointers.com/)
